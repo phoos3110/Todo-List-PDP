@@ -17,3 +17,8 @@
 - [React](https://react.dev/) + TypeScript
 - [Tailwind CSS](https://tailwindcss.com/) cho styling
 - Canvas API (`<canvas>` + `requestAnimationFrame`) cho hiệu ứng cursor trail
+
+## Demo
+https://todo-list-pdp.vercel.app/
+<img width="1913" height="911" alt="image" src="https://github.com/user-attachments/assets/9c77b11d-a8b1-4068-99cd-70b733e50bb8" />
+
